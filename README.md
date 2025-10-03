@@ -1,2 +1,1 @@
-# lab4coen316
-lab4coen316
+Programmed a MIPS based CPU in VHDL
